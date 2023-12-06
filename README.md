@@ -2,10 +2,21 @@
 
 ## First Step
 - Building software that makes a difference
+```
+    - The problems that BDD solves
+    - General principles of BDD
+    - Acitivies and outcomes in BDD
+    - Pros and cons of BDD
+```
   - BDD from 50,000 feet
+  ![SDLC](resoucrce/TraditionalSDLC.png)
+  ![BDD](resoucrce/BDD.png)
   - What problems are you trying to solve?
+  ![FailedSW](resoucrce/FailedSW.png)
+  ![TDD](resoucrce/TDD.png)
   - Introducing the BDD
-  ![BDD](./resoucrce/ActivitiesAndOutcomeBDD.png)
+  ![BDD](resoucrce/ActivitiesAndOutcomeBDD.png)
+  ![Example](resoucrce/ExamplesRole.png)
   - Benefits of BDD
   - Disadvantages and potential challenges of BDD
 - BDD-the whirlwind tour
