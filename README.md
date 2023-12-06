@@ -5,6 +5,7 @@
   - BDD from 50,000 feet
   - What problems are you trying to solve?
   - Introducing the BDD
+  ![BDD](./resoucrce/ActivitiesAndOutcomeBDD.png)
   - Benefits of BDD
   - Disadvantages and potential challenges of BDD
 - BDD-the whirlwind tour
