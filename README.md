@@ -18,6 +18,8 @@
   ![BDD](resoucrce/ActivitiesAndOutcomeBDD.png)
   ![Example](resoucrce/ExamplesRole.png)
   ![Gherkin](resoucrce/GherkinStructure.png)
+  ![GherkinExample](resoucrce/GherkinExample.png)
+  ![ExecutableSpecification](resoucrce/ExecutableSpecification.png)
   - Benefits of BDD
   - Disadvantages and potential challenges of BDD
 - BDD-the whirlwind tour
