@@ -22,6 +22,8 @@
   ![ExecutableSpecification](resoucrce/ExecutableSpecification.png)
   ![LowLevel](resoucrce/LowLevelExecutableSpecification.png)
   ![HighLevelAndLowLevel](resoucrce/HighLevelAndLowLevelExecutableSpecification.png)
+  ![GenerateLivingDoc](resoucrce/GenerateLivingDoc.png)
+  ![WellLivingDoc](resoucrce/WellOrganizedLivingDoc.png)
   - Benefits of BDD
   - Disadvantages and potential challenges of BDD
 - BDD-the whirlwind tour
