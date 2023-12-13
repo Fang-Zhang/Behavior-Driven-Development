@@ -27,10 +27,26 @@
   - Benefits of BDD
   - Disadvantages and potential challenges of BDD
 - BDD-the whirlwind tour
+```
+  - An end-to-end walkthrough of BDD practices in action
+  - Discovering features and describing them through stories and examples
+  - Using executable specifications to specify features in detail
+  - Using low-level BDD to implement features
+  - Using BDD test results as living documentation
+  - Using living documentation to support ongoing maintenance
+```
   - Introducing the train timetable application
   - Determining the value proposition of the application
   - Requirements analysis: Discovering and Understanding features
+    - Describing features
+    - Breaking features down into stories
+    - Illustrating features with examples
   - Implementation: Building and delivering features
+    - Going from examples to acceptance criteria
+    - Setting up Maven and Git
+    - Excutable specifications: Automating acceptance criteria
+    - Automation tests: Implementing the acceptance criteria
+    - Tests as living documentation
   - Maintenance
 
 ## What Do I Want? Defining Requirements Using BDD
