@@ -1,0 +1,13 @@
+- Living Documentation: Reporting and project management
+  - Living documentation: A High-Level View
+  - Are we there yet? Reporting on feature readiness and feature coverage
+  - Integrating a digital product backlog
+  - Organizing the living documentation
+  - Providing more free-form documentation
+  - Technical living documentation
+- BDD in the build process
+  - Executable specifications should be part of an automated build
+  - Continuous integration speeds up the feeedback cycle
+  - Continuous delivery: Any build is a potential release
+  - Coninuous Integration used to deploy living documentation
+  - Faster automated acceptance criteria

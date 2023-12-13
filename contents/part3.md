@@ -1,13 +1,20 @@
-- Living Documentation: Reporting and project management
-  - Living documentation: A High-Level View
-  - Are we there yet? Reporting on feature readiness and feature coverage
-  - Integrating a digital product backlog
-  - Organizing the living documentation
-  - Providing more free-form documentation
-  - Technical living documentation
-- BDD in the build process
-  - Executable specifications should be part of an automated build
-  - Continuous integration speeds up the feeedback cycle
-  - Continuous delivery: Any build is a potential release
-  - Coninuous Integration used to deploy living documentation
-  - Faster automated acceptance criteria
+- From executable specifications to rock-solid automated acceptance tests
+  - Writing industrial-strength acceptance tests
+  - Automating your test setup process
+  - Separating the what from the how
+- Automating acceptance criteria for the UI layer
+  - When and how should you tet the UI
+  - Automating web-based acceptance criteria using Selenium WebDriver
+  - Using the Page Object pattern to encapsulate UI details
+- Automating acceptance criteria for the Non-UI layer
+  - Balancing UI and Non-UI tests
+  - When to use Non-UI tests
+  - Types of Non-UI tests
+  - Defining and testing non-functional requirements
+  - Discovering the design
+- BDD and unit testing
+  - BDD, TDD and unit testing
+  - Going from acceptance criteria to implemented features
+  - Exploring low-level requirements, discovering design, and implementing more complex functionality
+  - Tools that make BDD unit testing easier
+  - Using executable specifications as living documentation
