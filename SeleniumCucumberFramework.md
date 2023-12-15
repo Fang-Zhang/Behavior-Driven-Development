@@ -15,6 +15,7 @@
 - Cucumber-html
 - Cucumber-jvm-deps
 - Cucumber-reporting
+- Cucumber-compiler
 - cobertura-code-coverage
 - Hamcrest-core
 - Gherkin
@@ -26,15 +27,35 @@
 
 ```
    Project Name
+    |src/test/java
+      |pageObjects(Package)
+        |AddCustomerPage.java
+        |LoginPage.java
+        |SearchCustomerPage.java
+      |stepDefinitions(Package)
+        |steps.java
+      |testRunner(Package)
+        |TestRunner.java
+      |utilities(Package)
+        |ReadConfig.java
+        |BaseClass.java
+        |BrowserFactory.java
+        |ExcelUtils.java
+        |Helper.java
+        |Log.java
     |Features(Folder)
-    |pageObjects(Package)
-    |stepDefinitions(Package)
-    |testRunner(Package)
-    |testData(Package)
-    |utilities(Package)
+      |Login.feature
+      |Customer.feature
+      |SearchCustomer.feature
+    |log4j.properties -> Add this file in "steps.java" under "stepDefinitions" package
+    |log(Folder)
+    |config.properties -> Add this file in "steps.java" under "stepDefinitions" package
     |Drivers(Folder)
+      |chromedriver.exe
+      |geckodriver.exe
+      |IEDriverServer.exe
+    |pom.xml
     |Target(Report)
-    |POM.xml
 ```
 
 ## 4. Copy Drivers to "Drivers" Folder
