@@ -23,6 +23,10 @@
   ![WellLivingDoc](/resoucrce/WellOrganizedLivingDoc.png)
 ## Benefits of BDD
 ## Disadvantages and potential challenges of BDD
+
+
+
+
 # BDD-the whirlwind tour
 ```
   - An end-to-end walkthrough of BDD practices in action
