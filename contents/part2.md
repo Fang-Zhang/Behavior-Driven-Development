@@ -25,13 +25,18 @@
 - Show me the money - business goals and revenue
 - Popping the "why stack": digging out the business goals
 ### Impact Mapping: a visual approach 
+![Impact Mapping](/resoucrce/ImpactMapping.png)
 ### Who will benefit? Identify stakeholders and their needs
 ### What do you need to build? Identify capabilities
+![Impact Mapping2](/resoucrce/ImpactMapping2.png)
 ### What features will provide the most ROI?
 - Differentiating features
 - Parity features
 - Partner features
 - Minimun impact
+
+
+
 ## Defining and illustrating features
 ```
   - Describing and organizing features and user stories
@@ -40,6 +45,7 @@
 ```
 ### What is a feature?
 - Features deliver capabilities
+![Feature](/resoucrce/FeaturesDeliverCapabilities.png)
 - Features can be broken down into more manageable chunks
 - A feature can be described by one or more user stories
 - A feature is not a user story
@@ -52,6 +58,9 @@
 - Never commit early unless you know why
 ### Deliverate Discovery
 ### From Examples to working software: The Bigger Picture
+
+
+
 ## From examples to executable specifications
 ```
   - Turning concrete examples into executable scenarios
@@ -60,6 +69,7 @@
   - Writing more advanced scenarios using more Gherkin keywords
   - Organizing scenarios in feature files
 ```
+![From Examples to executable specifications](/resoucrce/ExamplesToExecutableSpecifications.png)
 ### Truning examples into executable scenarios
 ### Writing excutable scenarios
 - A feature file has a title and a description
@@ -70,6 +80,7 @@
 ### Using tables in scenarios
 - Using tables in individual steps
 - Using tables of examples
+![TableScenario](/resoucrce/TableScenarios.png)
 ### Expressive scenarios: Patterns and anti-patterns
 - Writing expressive Given steps
 - Writing expressive When steps
@@ -78,9 +89,13 @@
 - Avoid dependencies between scenarios
 ### Organizing scenarios using feature files and tags
 - The scenarios go in a feature file
+![ScenariosInFeatureFile](/resoucrce/ScenariosInFeatureFile.png)
 - A feature file can contain multiple scenarios
 - Organizing feature files
 - Annotating your scenarios with tags
+
+
+
 ## Automation the scenarios
 ```
   - The basic principles of automating scenarios steps
@@ -90,8 +105,12 @@
   - Implementing step definitions in .NET using SpecFlow
   - Implementing step definitions in JavaScript using Cucumber.js
 ```
+![Automation the scenarios](/resoucrce/AutomateExamplesUsingBDDTools.png)
 ### Introduction to automating scenarios
 - Step definitions interpret the steps
+![StepDefinitions](/resoucrce/ScenarioToStepDefinition.png)
+![AutomationSuite](/resoucrce/WellDesignedAutomationSuite.png)
+![AutomationSuite2](/resoucrce/WellDesignApplication.png)
 - Keep your step definitions simple
 ### Implementing step definitions: General principles
 - Installing the BDD tools
