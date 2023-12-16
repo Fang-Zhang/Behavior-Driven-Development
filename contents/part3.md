@@ -1,9 +1,12 @@
+# How do I build it? Coding the BDD way
+
 ## From executable specifications to rock-solid automated acceptance tests
 ```
   - The importantce of writing high-quality automation tests
   - Preparing test data for the tests
   - Implementing reliable and sustainable tests
 ```
+![AutomatedData](/resoucrce/AutomatedDataSetup.png)
 ### Writing industrial-strength acceptance tests
 ### Automating your test setup process
 - Initializing the database before each test
@@ -12,10 +15,15 @@
 - Setting up scenarios-specific data
 - Using personas and known entities
 ### Separating the what from the how
+![ThreeLayers](/resoucrce/AcceptanceCriteriaThreeLayers.png)
+![Application](/resoucrce/ThreeLayersApplication.png)
 - The Business Rules layer describes the expected outcomes
 - The Business Flow layer describes the user's journey
 - The Technical layer interacts with the system
 - How many layers should you have?
+
+
+
 ## Automating acceptance criteria for the UI layer
 ```
   - Why and when should you automate UI tests
@@ -24,11 +32,14 @@
   - Using the Page Object pattern to encapsulate UI details
   - Libraries that extend Selenium WebDriver
 ```
+![UIAutomation](/resoucrce/UIAutomation.png)
 ### When and how should you test the UI
 - The risks of too many web tests
 - Web testing with headless browsers
 - How much web testing do you really need?
+![UITestingRate](/resoucrce/UITestingRate.png)
 ### Automating web-based acceptance criteria using Selenium WebDriver
+![WebDriverArchitecture](/resoucrce/WebDriverArchitecture.png)
 - Getting started with Selenium WebDriver in Java
 - Identifying elements
 - Interacting with elements
@@ -36,8 +47,12 @@
 - Writing test-friendly web applications
 ### Using the Page Object pattern to make test cleaner
 - The Page Object pattern
+![POisTechnicalLayer](/resoucrce/POisTechnicalLayer.png)
 - Writing well-designed Page Objects
 - Using libraries that extend Selenium WebDriver
+
+
+
 ## Automating acceptance criteria for the Non-UI layer
 ```
   - Balancing UI and Non-UI acceptance criteria
@@ -48,6 +63,7 @@
   - Automating acceptance tests for non-functional requirements
   - Discovering applicatioin design through Non-UI tests
 ```
+![NonUIAutomation](/resoucrce/NonUIAutomation.png)
 ### Balancing UI and Non-UI tests
 ### When to use Non-UI tests
 ### Types of Non-UI tests
@@ -56,6 +72,9 @@
 - Testing service layer
 ### Defining and testing non-functional requirements
 ### Discovering the design
+
+
+
 ## BDD and unit testing
 ```
   - The relationship between BDD, TDD and unit testing
