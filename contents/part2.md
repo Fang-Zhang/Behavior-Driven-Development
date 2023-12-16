@@ -1,3 +1,4 @@
+# What do I want? - Defining requirements using BDD
 ## Understanding the business goals: Feature Injection and related techniques
 ```
   - High-level requirements-analysis techniques
@@ -5,16 +6,21 @@
   - Visualizing high-level requirements with Impact Mapping
   - Identifying stakeholders and their needs
 ```
+- Feature Injection: A high-level requirements-analysis technique, takes BDD beyond scenarios and stories and can help you discover what features you really need to build
+- Impact Mapping: A visual technique for identifying the business goals behind a project and the features that will help you achieve them.
+- Purpose Alignment Model: A technique for identifying stakeholders and their needs.
 ### Introducing Flying High Airlines
 ### Feature Injection
+![Feature Injection](/resoucrce/FeatureInjection.png)
 - Hunt the value
 - Inject the features
 - Spot the examples
 - Putting it all together
+![putting it all together](/resoucrce/PuttingAllTogether.png)
 ### What do you want to achieve? Start with a vision
 - The vision statement
 - Using vision statement templates
-### How will it benefit the business?
+### How will it benefit the business? - Indentifying business goals
 - Writing good business goals
 - Show me the money - business goals and revenue
 - Popping the "why stack": digging out the business goals
